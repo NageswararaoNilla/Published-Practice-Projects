@@ -1,7 +1,7 @@
 # Published-Practice-Projects
 URLs of Published Practice Projects
 
-### ReactJs Projects
+### React Js Projects
 
 UserList Application using React JS = https://nnruserfollwers.ccbp.tech/
 
