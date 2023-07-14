@@ -12,3 +12,5 @@ Google Search Suggestion Application = https://nageswararaonilla.github.io/googl
 Browser History Application  =   https://nnrhistoryapp.ccbp.tech/
 
 App Store Application = https://nnrappstore.ccbp.tech/
+
+Coin Toss Game = https://nnrcointossgame.ccbp.tech/
