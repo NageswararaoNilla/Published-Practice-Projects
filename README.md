@@ -14,3 +14,5 @@ Browser History Application  =   https://nnrhistoryapp.ccbp.tech/
 App Store Application = https://nnrappstore.ccbp.tech/
 
 Coin Toss Game = https://nnrcointossgame.ccbp.tech/
+
+Review APP = https://nnrreviewsapp.ccbp.tech/
