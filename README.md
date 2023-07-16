@@ -19,4 +19,6 @@ Review APP = https://nnrreviewsapp.ccbp.tech/
 
 Contacts APP = https://nnrcontactapp.ccbp.tech/
 
-Comment APP =  https://nnrcommentapp.ccbp.tech/
+Comments APP =  https://nnrcommentapp.ccbp.tech/
+
+Appointments APP  =  https://nnrappointment.ccbp.tech/
