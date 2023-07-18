@@ -22,3 +22,6 @@ Contacts APP = https://nnrcontactapp.ccbp.tech/
 Comments APP =  https://nnrcommentapp.ccbp.tech/
 
 Appointments APP  =  https://nnrappointment.ccbp.tech/
+
+Money Manager APP =  https://nnrmoneyapp.ccbp.tech/
+
