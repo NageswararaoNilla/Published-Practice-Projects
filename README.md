@@ -25,3 +25,4 @@ Appointments APP  =  https://nnrappointment.ccbp.tech/
 
 Money Manager APP =  https://nnrmoneyapp.ccbp.tech/
 
+Emoji Game APP =  https://nnremojigame.ccbp.tech/
