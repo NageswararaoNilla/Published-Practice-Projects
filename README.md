@@ -1,4 +1,6 @@
 # Published-Practice-Projects
+Gain More Hands-on-Experience through building projects like those shown below.
+
 URLs of Published Practice Projects
 
 ### React Js Projects
