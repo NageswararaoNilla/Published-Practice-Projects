@@ -28,3 +28,5 @@ Money Manager APP =  https://nnrmoneyapp.ccbp.tech/
 Emoji Game APP =  https://nnremojigame.ccbp.tech/
 
 Clock APP = https://nnrclockapp.ccbp.tech/
+
+Digital Timer APP = https://nnrdigitaltimer.ccbp.tech/
