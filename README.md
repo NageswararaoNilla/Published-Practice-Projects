@@ -30,3 +30,4 @@ Emoji Game APP =  https://nnremojigame.ccbp.tech/
 Clock APP = https://nnrclockapp.ccbp.tech/
 
 Digital Timer APP = https://nnrdigitaltimer.ccbp.tech/
+                  =  https://nageswararaonilla.github.io/Digital-Timer-APP/
