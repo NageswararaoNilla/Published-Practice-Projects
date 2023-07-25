@@ -48,3 +48,5 @@ Routing Practice APP = https://nnrroutingapp.ccbp.tech/
 
 Blog List APP = https://nageswararaonilla.github.io/Blog-List-App/ 
               = https://nnrbloglistapp.ccbp.tech
+
+API call to Blogs = https://nageswararaonilla.github.io/Routing-Part-2-API-Call
