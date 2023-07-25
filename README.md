@@ -45,3 +45,6 @@ Match Game APP = https://nnrmatchgame.ccbp.tech/
 My Blog Example APP = https://nnrblogexample.ccbp.tech/
 
 Routing Practice APP = https://nnrroutingapp.ccbp.tech/
+
+Blog List APP = https://nageswararaonilla.github.io/Blog-List-App/ 
+              = https://nnrbloglistapp.ccbp.tech
