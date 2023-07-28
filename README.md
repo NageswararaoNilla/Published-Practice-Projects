@@ -54,3 +54,5 @@ API call to Blogs = https://nageswararaonilla.github.io/Routing-Part-2-API-Call
 Navigating to Specific Blog = https://nageswararaonilla.github.io/Routing-Using-Path-Params-Part-3/
 
 Fetching and Routing Practice Blog  =  https://nnrrouting.ccbp.tech/
+
+Cryptocurrency Tracker APP =  https://nnrcryptoapp.ccbp.tech/
