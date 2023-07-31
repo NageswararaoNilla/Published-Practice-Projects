@@ -5,62 +5,62 @@ URLs of Published Practice Projects
 
 ### React Js Projects
 
-UserList Application using React JS = https://nnruserfollwers.ccbp.tech/
+1) UserList Application using React JS = https://nnruserfollwers.ccbp.tech/
 
-Counter Application using React JS = https://nnrcounterapp.ccbp.tech/
+2) Counter Application using React JS = https://nnrcounterapp.ccbp.tech/
 
-Google Search Suggestion Application = https://nageswararaonilla.github.io/googleSearchSuggestions-App/
+3) Google Search Suggestion Application = https://nageswararaonilla.github.io/googleSearchSuggestions-App/
 
-Browser History Application  =   https://nnrhistoryapp.ccbp.tech/
+4) Browser History Application  =   https://nnrhistoryapp.ccbp.tech/
 
-App Store Application = https://nnrappstore.ccbp.tech/
+5) App Store Application = https://nnrappstore.ccbp.tech/
 
-Coin Toss Game = https://nnrcointossgame.ccbp.tech/
+6) Coin Toss Game = https://nnrcointossgame.ccbp.tech/
 
-Review APP = https://nnrreviewsapp.ccbp.tech/
+7) Review APP = https://nnrreviewsapp.ccbp.tech/
 
-Contacts APP = https://nnrcontactapp.ccbp.tech/
+8) Contacts APP = https://nnrcontactapp.ccbp.tech/
 
-Comments APP =  https://nnrcommentapp.ccbp.tech/
+9) Comments APP =  https://nnrcommentapp.ccbp.tech/
 
-Appointments APP  =  https://nnrappointment.ccbp.tech/
+10) Appointments APP  =  https://nnrappointment.ccbp.tech/
 
-Money Manager APP =  https://nnrmoneyapp.ccbp.tech/
+11) Money Manager APP =  https://nnrmoneyapp.ccbp.tech/
 
-Emoji Game APP =  https://nnremojigame.ccbp.tech/
+12) Emoji Game APP =  https://nnremojigame.ccbp.tech/
 
-Clock APP = https://nnrclockapp.ccbp.tech/
+13) Clock APP = https://nnrclockapp.ccbp.tech/
 
-Digital Timer APP = https://nnrdigitaltimer.ccbp.tech/
+14) Digital Timer APP = https://nnrdigitaltimer.ccbp.tech/
                   =  https://nageswararaonilla.github.io/Digital-Timer-APP/
 
-StopWatch APP = https://nnrstopwatchapp.ccbp.tech/   
+15) StopWatch APP = https://nnrstopwatchapp.ccbp.tech/   
 
-FAQs APP =  https://nnrfaqsapp.ccbp.tech/
+16) FAQs APP =  https://nnrfaqsapp.ccbp.tech/
 
-Password Manager APP = https://nnrpwdmanager.ccbp.tech/
+17) Password Manager APP = https://nnrpwdmanager.ccbp.tech/
 
-Match Game APP = https://nnrmatchgame.ccbp.tech/
+18) Match Game APP = https://nnrmatchgame.ccbp.tech/
 
-My Blog Example APP = https://nnrblogexample.ccbp.tech/
+19) My Blog Example APP = https://nnrblogexample.ccbp.tech/
 
-Routing Practice APP = https://nnrroutingapp.ccbp.tech/
+20) Routing Practice APP = https://nnrroutingapp.ccbp.tech/
 
-Blog List APP = https://nageswararaonilla.github.io/Blog-List-App/ 
+21) Blog List APP = https://nageswararaonilla.github.io/Blog-List-App/ 
               = https://nnrbloglistapp.ccbp.tech
 
-API call to Blogs = https://nageswararaonilla.github.io/Routing-Part-2-API-Call
+22) API call to Blogs = https://nageswararaonilla.github.io/Routing-Part-2-API-Call
 
-Navigating to Specific Blog = https://nageswararaonilla.github.io/Routing-Using-Path-Params-Part-3/
+23) Navigating to Specific Blog = https://nageswararaonilla.github.io/Routing-Using-Path-Params-Part-3/
 
-Fetching and Routing Practice Blog  =  https://nnrrouting.ccbp.tech/
+24) Fetching and Routing Practice Blog  =  https://nnrrouting.ccbp.tech/
 
-Cryptocurrency Tracker APP =  https://nnrcryptoapp.ccbp.tech/
+25) Cryptocurrency Tracker APP =  https://nnrcryptoapp.ccbp.tech/
 
-IPL Dashboard APP = https://nnripldbapp.ccbp.tech/
+26) IPL Dashboard APP = https://nnripldbapp.ccbp.tech/
 
-Debugging StopWatch APP = https://nnrdebugsw.ccbp.tech/
+27) Debugging StopWatch APP = https://nnrdebugsw.ccbp.tech/
 
-Debugging Fetch And Routing =  https://nnrdebugfetch.ccbp.tech/
+28) Debugging Fetch And Routing =  https://nnrdebugfetch.ccbp.tech/
 
-Debugging IPL Dashboard APP = https://nnrdebugipl.ccbp.tech/
+29) Debugging IPL Dashboard APP = https://nnrdebugipl.ccbp.tech/
