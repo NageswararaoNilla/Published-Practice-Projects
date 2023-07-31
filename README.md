@@ -59,3 +59,5 @@ Fetching and Routing Practice Blog  =  https://nnrrouting.ccbp.tech/
 Cryptocurrency Tracker APP =  https://nnrcryptoapp.ccbp.tech/
 
 IPL Dashboard APP = https://nnripldbapp.ccbp.tech/
+
+Debugging Fetch And Routing =  https://nnrdebugfetch.ccbp.tech/
