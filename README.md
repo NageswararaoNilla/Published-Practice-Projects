@@ -35,7 +35,6 @@ Digital Timer APP = https://nnrdigitaltimer.ccbp.tech/
                   =  https://nageswararaonilla.github.io/Digital-Timer-APP/
 
 StopWatch APP = https://nnrstopwatchapp.ccbp.tech/   
-              =  https://nnrdebugsw.ccbp.tech/
 
 FAQs APP =  https://nnrfaqsapp.ccbp.tech/
 
@@ -59,6 +58,8 @@ Fetching and Routing Practice Blog  =  https://nnrrouting.ccbp.tech/
 Cryptocurrency Tracker APP =  https://nnrcryptoapp.ccbp.tech/
 
 IPL Dashboard APP = https://nnripldbapp.ccbp.tech/
+
+Debugging StopWatch APP = https://nnrdebugsw.ccbp.tech/
 
 Debugging Fetch And Routing =  https://nnrdebugfetch.ccbp.tech/
 
