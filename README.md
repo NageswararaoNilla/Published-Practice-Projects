@@ -34,7 +34,8 @@ Clock APP = https://nnrclockapp.ccbp.tech/
 Digital Timer APP = https://nnrdigitaltimer.ccbp.tech/
                   =  https://nageswararaonilla.github.io/Digital-Timer-APP/
 
-StopWatch APP = https://nnrstopwatchapp.ccbp.tech/
+StopWatch APP = https://nnrstopwatchapp.ccbp.tech/   
+              =  https://nnrdebugsw.ccbp.tech/
 
 FAQs APP =  https://nnrfaqsapp.ccbp.tech/
 
