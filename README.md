@@ -64,3 +64,5 @@ URLs of Published Practice Projects
 28) Debugging Fetch And Routing =  https://nnrdebugfetch.ccbp.tech/
 
 29) Debugging IPL Dashboard APP = https://nnrdebugipl.ccbp.tech/
+
+30) Authentication Flow Practice APP = https://nnrauthenticate.ccbp.tech/
