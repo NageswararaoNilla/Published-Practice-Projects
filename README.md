@@ -65,4 +65,4 @@ URLs of Published Practice Projects
 
 29) Debugging IPL Dashboard APP = https://nnrdebugipl.ccbp.tech/
 
-30) Authentication Flow Practice APP = https://nnrauthenticate.ccbp.tech/
+30) Authentication Flow Practice APP = https://nnrauthenticate.ccbp.tech/login
