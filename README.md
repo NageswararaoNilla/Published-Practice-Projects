@@ -67,8 +67,10 @@ URLs of Published Practice Projects
 
 30) Authentication Flow Practice APP = https://nnrauthenticate.ccbp.tech/login
 
-31) Nxt Trendz Authentication APP = https://nnrnxttrendauth.ccbp.tech/
+31) Nxt Trendz Authentication 1 APP = https://nnrnxttrendauth.ccbp.tech/
 
 32) Registration Form APP = https://nnrregisterform.ccbp.tech/
 
 33) Authentication & Authorization | Part 2 = https://nnrauth2.ccbp.tech/
+
+34) Nxt Trendz Authentication 2 APP = https://nnrnxttrendz2.ccbp.tech/
