@@ -76,3 +76,5 @@ URLs of Published Practice Projects
 34) Nxt Trendz Authentication 2 APP = https://nnrnxttrendz2.ccbp.tech/
 
 35) Authentication & Authorization | Part 3 = https://nnrauth3.ccbp.tech/
+
+36) Nxt Trendz Protected Route APP = https://nnrprotroute.ccbp.tech/login
