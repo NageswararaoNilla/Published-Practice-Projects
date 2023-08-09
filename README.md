@@ -81,4 +81,6 @@ URLs of Published Practice Projects
 
 37) Authentication Functionality = https://nnrauthfunc.ccbp.tech/
 
-38) Debugging Nxt Trendz Authentication 2 = https://nnrdebugnxt1.ccbp.tech/login
+38) Debugging Nxt Trendz Authentication 2 = https://nnrdebugnxt1.ccbp.tech/
+
+39) Debugging Nxt Trendz Protected Route = https://nnrdebugnxt2.ccbp.tech/
