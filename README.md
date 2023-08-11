@@ -87,4 +87,6 @@ URLs of Published Practice Projects
 
 40)  Authentication & Authorization | Part 4 = https://nnrauth4.ccbp.tech/
 
-41)  Events APP = https://nnreventsapp.ccbp.tech
+41)  Events APP = https://nnreventsapp.ccbp.tech/
+
+42)  Nxt Trendz Sorting Products = https://nnrsortproducts.ccbp.tech/
