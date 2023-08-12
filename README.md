@@ -92,3 +92,5 @@ URLs of Published Practice Projects
 42)  Nxt Trendz Sorting Products = https://nnrsortproducts.ccbp.tech/
 
 43)  Github Popular Repos = https://nnrgitreposapp.ccbp.tech/
+
+44)  Nxt Trendz - Products Filters Group = https://nnrnxtfilter.ccbp.tech/
