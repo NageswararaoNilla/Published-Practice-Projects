@@ -90,3 +90,5 @@ URLs of Published Practice Projects
 41)  Events APP = https://nnreventsapp.ccbp.tech/
 
 42)  Nxt Trendz Sorting Products = https://nnrsortproducts.ccbp.tech/
+
+43)  Github Popular Repos = https://nnrgitreposapp.ccbp.tech/
