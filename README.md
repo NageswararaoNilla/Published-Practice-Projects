@@ -98,3 +98,5 @@ URLs of Published Practice Projects
 45)  Nxt Trendz - Specific Product Details = https://nnrnxttrendz.ccbp.tech/
 
 46)  More React Concepts  = https://reactmore.ccbp.tech/
+
+47)  Alert Notifications = https://nnralertsapp.ccbp.tech/
