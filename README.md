@@ -100,3 +100,5 @@ URLs of Published Practice Projects
 46)  More React Concepts  = https://reactmore.ccbp.tech/
 
 47)  Alert Notifications = https://nnralertsapp.ccbp.tech/
+
+48)  React Video Player  = https://nnrvideoplayer.ccbp.tech/
