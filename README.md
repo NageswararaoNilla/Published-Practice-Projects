@@ -104,3 +104,5 @@ URLs of Published Practice Projects
 48)  Third Party Packages | React Video Player and more  = [https://nnrvideoplayer.ccbp.tech/](https://nnrnpmpackages.ccbp.tech/)
 
 49)  CoWIN Dashboard App = https://nnrcowindb.ccbp.tech/
+
+50)  CCBP Timeline APP = https://nnrccbptimeline.ccbp.tech/
