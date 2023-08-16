@@ -101,6 +101,6 @@ URLs of Published Practice Projects
 
 47)  Alert Notifications = https://nnralertsapp.ccbp.tech/
 
-48)  React Video Player  = https://nnrvideoplayer.ccbp.tech/
+48)  Third Party Packages | React Video Player and more  = [https://nnrvideoplayer.ccbp.tech/](https://nnrnpmpackages.ccbp.tech/)
 
 49)  CoWIN Dashboard App = https://nnrcowindb.ccbp.tech/
