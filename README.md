@@ -108,3 +108,5 @@ URLs of Published Practice Projects
 50)  CCBP Timeline APP = https://nnrccbptimeline.ccbp.tech/
 
 51)  Planets APP = https://nnrplanetsapp.ccbp.tech/
+
+52)  Hamburger Menu App = https://nnrhamburger.ccbp.tech/
