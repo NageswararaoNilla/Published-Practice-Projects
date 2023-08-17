@@ -106,3 +106,5 @@ URLs of Published Practice Projects
 49)  CoWIN Dashboard App = https://nnrcowindb.ccbp.tech/
 
 50)  CCBP Timeline APP = https://nnrccbptimeline.ccbp.tech/
+
+51)  Planets APP = https://nnrplanetsapp.ccbp.tech/
