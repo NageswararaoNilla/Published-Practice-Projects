@@ -110,3 +110,5 @@ URLs of Published Practice Projects
 51)  Planets APP = https://nnrplanetsapp.ccbp.tech/
 
 52)  Hamburger Menu App = https://nnrhamburger.ccbp.tech/
+
+53)  Prime Video APP = https://nnrprimevideo.ccbp.tech/
