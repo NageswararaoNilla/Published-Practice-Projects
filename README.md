@@ -3,8 +3,11 @@ Gain More Hands-on-Experience through building projects like those shown below.
 
 URLs of Published Practice Projects
 
-# Few Mini Projects
+## Few Mini Projects
+
 1) Jobby APP = https://nnrjobbyapp.ccbp.tech/
+
+2) Nxt Trendz APP = https://nnrnxttrendz.ccbp.tech/
 
 
 ### React Js Projects
