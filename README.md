@@ -3,6 +3,10 @@ Gain More Hands-on-Experience through building projects like those shown below.
 
 URLs of Published Practice Projects
 
+# Few Mini Projects
+1) Jobby APP = https://nnrjobbyapp.ccbp.tech/
+
+
 ### React Js Projects
 
 1) UserList Application using React JS = https://nnruserfollwers.ccbp.tech/
@@ -112,3 +116,5 @@ URLs of Published Practice Projects
 52)  Hamburger Menu App = https://nnrhamburger.ccbp.tech/
 
 53)  Prime Video APP = https://nnrprimevideo.ccbp.tech/
+
+54)  Jobby APP = https://nnrjobbyapp.ccbp.tech/
