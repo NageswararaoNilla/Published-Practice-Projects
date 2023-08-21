@@ -121,3 +121,7 @@ URLs of Published Practice Projects
 53)  Prime Video APP = https://nnrprimevideo.ccbp.tech/
 
 54)  Jobby APP = https://nnrjobbyapp.ccbp.tech/
+
+55)  React Context | Part 1 = https://nnrcontext1.ccbp.tech/
+
+56)  React Context | Part 2 = https://nnrcontext2.ccbp.tech/
