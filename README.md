@@ -125,3 +125,5 @@ URLs of Published Practice Projects
 55)  React Context | Part 1 = https://nnrcontext1.ccbp.tech/
 
 56)  React Context | Part 2 = https://nnrcontext2.ccbp.tech/
+
+57)  Layout Builder   = https://nnrlayoutbuild.ccbp.tech/
