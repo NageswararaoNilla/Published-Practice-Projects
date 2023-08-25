@@ -1,5 +1,5 @@
 # Published-Practice-Projects
-Gain More Hands-on-Experience through building projects like those shown below.
+Gain More hands-on experience through building projects like those shown below.
 
 URLs of Published Practice Projects
 
@@ -129,3 +129,5 @@ URLs of Published Practice Projects
 57)  Layout Builder   = https://nnrlayoutbuild.ccbp.tech/
 
 58)  React Context | Part 3  = https://nnrcontext3.ccbp.tech/
+
+59)  Navbar with Context = https://nnrnavbartheme.ccbp.tech/
