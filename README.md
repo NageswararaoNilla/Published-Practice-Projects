@@ -102,7 +102,7 @@ URLs of Published Practice Projects
 
 44)  Nxt Trendz - Products Filters Group = https://nnrnxtfilter.ccbp.tech/
 
-45)  Nxt Trendz - Specific Product Details = https://nnrnxttrendz.ccbp.tech/
+45)  Nxt Trendz - Specific Product Details = [https://nnrnxttrendz.ccbp.tech/](https://nnrnxtproducts.ccbp.tech/login)
 
 46)  More React Concepts  = https://reactmore.ccbp.tech/
 
