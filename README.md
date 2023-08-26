@@ -132,5 +132,7 @@ URLs of Published Practice Projects
 
 59)  Navbar with Context = https://nnrnavbartheme.ccbp.tech/
 
-60)   React Context | Part 4  = https://nnrcontext4.ccbp.tech/
+60)  React Context | Part 4  = https://nnrcontext4.ccbp.tech/
+
+61)  Nxt Trendz - Cart Features = https://nnrcartfeatures.ccbp.tech/
 
