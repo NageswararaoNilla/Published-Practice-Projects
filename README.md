@@ -138,3 +138,5 @@ URLs of Published Practice Projects
 
 62)  Meme Generator APP Using Styled-Components = https://nnrmemegenerate.ccbp.tech/
 
+63)  Gradient Generator App = https://nnrgradientgen.ccbp.tech/
+
