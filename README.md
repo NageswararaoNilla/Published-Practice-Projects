@@ -9,6 +9,8 @@ URLs of Published Practice Projects
 
 2) Nxt Trendz APP = https://nnrnxttrendz.ccbp.tech/
 
+3) Nxt Watch APP (Similar to Youtube) = https://nnrnxtwatchapp.ccbp.tech/
+
 
 ### React Js Projects
 
@@ -141,4 +143,6 @@ URLs of Published Practice Projects
 63)  Gradient Generator App = https://nnrgradientgen.ccbp.tech/
 
 64)  Rock Paper Scissors Game = https://nnrrpsgame.ccbp.tech/
+
+65)  Nxt Watch APP (Similar to Youtube) = https://nnrnxtwatchapp.ccbp.tech/
 
