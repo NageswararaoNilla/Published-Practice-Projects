@@ -140,3 +140,5 @@ URLs of Published Practice Projects
 
 63)  Gradient Generator App = https://nnrgradientgen.ccbp.tech/
 
+64)  Rock Paper Scissors Game = https://nnrrpsgame.ccbp.tech/
+
