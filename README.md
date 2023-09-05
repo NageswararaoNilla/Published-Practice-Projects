@@ -152,3 +152,5 @@ URLs of Published Practice Projects
 
 68)  Music Playlist APP = https://nnrmusiclist.ccbp.tech/
 
+69)  Character Counter APP = https://nnrcharcounter.ccbp.tech/
+
