@@ -148,3 +148,5 @@ URLs of Published Practice Projects
 
 66)  Editable Text Input APP = https://nnreditabletext.ccbp.tech/
 
+67)  Multilingual Greetings APP = https://nnrmultigreets.ccbp.tech/
+
