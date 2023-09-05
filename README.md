@@ -146,3 +146,5 @@ URLs of Published Practice Projects
 
 65)  Nxt Watch APP (Similar to Youtube) = https://nnrnxtwatchapp.ccbp.tech/
 
+66)  Editable Text Input APP = https://nnreditabletext.ccbp.tech/
+
