@@ -150,3 +150,5 @@ URLs of Published Practice Projects
 
 67)  Multilingual Greetings APP = https://nnrmultigreets.ccbp.tech/
 
+68)  Music Playlist APP = https://nnrmusiclist.ccbp.tech/
+
