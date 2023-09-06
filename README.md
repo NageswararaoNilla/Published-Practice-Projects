@@ -154,3 +154,5 @@ URLs of Published Practice Projects
 
 69)  Character Counter APP = https://nnrcharcounter.ccbp.tech/
 
+70)  Visit Countries APP = https://nnrvisitcountry.ccbp.tech/
+
