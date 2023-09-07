@@ -160,3 +160,5 @@ URLs of Published Practice Projects
 
 72)  Travel Guide APP = https://nnrtravelguide.ccbp.tech/
 
+73)  Tech Era APP = https://nnrtechera.ccbp.tech/
+
