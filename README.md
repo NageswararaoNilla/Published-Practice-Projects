@@ -158,3 +158,5 @@ URLs of Published Practice Projects
 
 71)  My Tasks APP = https://nnrmytasks.ccbp.tech/
 
+72)  Travel Guide APP = https://nnrtravelguide.ccbp.tech/
+
