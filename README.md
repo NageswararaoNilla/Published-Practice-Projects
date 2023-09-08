@@ -170,3 +170,5 @@ URLs of Published Practice Projects
 
 76)  Text Editor APP = https://texteditornnr.ccbp.tech/
 
+77)  Meetup APP = https://meetupappnnr.ccbp.tech/
+
