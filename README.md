@@ -162,3 +162,5 @@ URLs of Published Practice Projects
 
 73)  Tech Era APP = https://nnrtechera.ccbp.tech/
 
+74)  E-Bank APP = https://ebanknnr.ccbp.tech/
+
