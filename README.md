@@ -166,5 +166,7 @@ URLs of Published Practice Projects
 
 74)  E-Bank APP = https://ebanknnr.ccbp.tech/
 
-75)  My Projects Showcase = https://myprojectsnnr.ccbp.tech/
+75)  My Projects Showcase APP = https://myprojectsnnr.ccbp.tech/
+
+76)  Text Editor APP = https://texteditornnr.ccbp.tech/
 
