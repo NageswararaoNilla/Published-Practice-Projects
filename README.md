@@ -11,6 +11,8 @@ URLs of Published Practice Projects
 
 3) Nxt Watch APP (Similar to Youtube) = https://nnrnxtwatchapp.ccbp.tech/
 
+4) My Projects Showcase = https://myprojectsnnr.ccbp.tech/
+
 
 ### React Js Projects
 
@@ -163,4 +165,6 @@ URLs of Published Practice Projects
 73)  Tech Era APP = https://nnrtechera.ccbp.tech/
 
 74)  E-Bank APP = https://ebanknnr.ccbp.tech/
+
+75)  My Projects Showcase = https://myprojectsnnr.ccbp.tech/
 
