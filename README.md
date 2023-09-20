@@ -2,6 +2,9 @@
 Gain More hands-on experience through building projects like those shown below.
 
 URLs of Published Practice Projects
+## Real Project Based Mini Project Using Figma Design and Cloudinary Images:
+
+1) Covid19 Dashboard = https://covid19dashnnr.ccbp.tech/
 
 ## Few Mini Projects
 
