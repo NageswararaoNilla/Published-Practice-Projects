@@ -175,3 +175,5 @@ URLs of Published Practice Projects
 
 77)  Meetup APP = https://meetupappnnr.ccbp.tech/
 
+78)  Nxt Slides = https://nxtslidesnnr.ccbp.tech/
+
